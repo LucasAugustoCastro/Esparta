@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+}
+.marcar{
+    text-decoration: line-through;
+}
+.CentralizarDiv{
+    
+    width: 50%;
+    margin: auto;
+    height: 70vh;
+    overflow: auto;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+}
+.centralizarInp{
+    
+    width: 50%;
+    display:block;
+    margin: 0 auto;
+    padding: 10px 0 10px 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    
+}
+.centralizarBut{
+    
+    width: 50%;
+    display:block;
+    padding: 10px 0 10px 0;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    width: 50%;
+    margin: auto;
+}
+table{
+    
+    width: 50%;
+    margin: 0 auto;
+}
+.secBut{
+    width: 100%;
+    padding: 10px 0 10px 0;
+}
